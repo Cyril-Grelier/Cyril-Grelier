@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-🔭 I’m currently working on graph coloring with Python and C++
-
-🌱 I’m currently learning Python and C++
+See [https://cyril-grelier.github.io/](https://cyril-grelier.github.io/) for more informations
